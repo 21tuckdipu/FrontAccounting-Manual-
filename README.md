@@ -18,9 +18,27 @@
 8.     Setup
 
 --Module which I tested 
-    1. Sales
-    2.Purchase
-    3. Item And Inventory
+
+
+   1. Sales
+       1: Sales Quotation Entry
+       2: Sales Order Entry
+       3: Delivery Against Sales Order
+       4: Sales invoice Entry
+       5: Customer Payment
+
+   
+2.Purchase
+      1:Supplier Order Entry
+      2: Supplier Payment Entry
+      3: Supplier Invoice
+
+   
+3. Item And Inventory
+     1:Inventory Location Transfer
+     2:Inventory Item Movement
+     3:Inventory Item Status
+   
 
 -- Tasks Done:
    creating Test Scenario , Test Cases and Defect Report
